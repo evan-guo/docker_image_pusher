@@ -6,3 +6,4 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 adoptopenjdk/openjdk11
 openjdk:21
+nginx:stable-alpine3.17-slim
