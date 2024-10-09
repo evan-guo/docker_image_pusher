@@ -7,3 +7,4 @@ nginx
 adoptopenjdk/openjdk11
 openjdk:21
 nginx:stable-alpine3.17-slim
+openjdk:11-jre-slim
