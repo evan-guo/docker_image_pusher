@@ -10,3 +10,6 @@ nginx:stable-alpine3.17-slim
 openjdk:11-jre-slim
 openjdk:21-slim
 nacos/nacos-server:1.4.2
+redis:latest
+rabbitmq:management
+minio/minio
